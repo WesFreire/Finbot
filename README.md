@@ -35,7 +35,6 @@ Out of scope for the MVP: budgets, Open Finance, statement import, language mode
 ```
 .specs/     Project constitution, decisions, and feature specs
 src/        Application source (to be implemented)
-specs/      Reserved for additional specification material
 ```
 
 ## Local development
